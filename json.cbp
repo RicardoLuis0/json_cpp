@@ -50,9 +50,7 @@
 			<Add option="-m64" />
 		</Linker>
 		<Unit filename="include/json.h" />
-		<Unit filename="include/json/element.h" />
 		<Unit filename="src/json.cpp" />
-		<Unit filename="src/json/element.cpp" />
 		<Unit filename="src/main.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
